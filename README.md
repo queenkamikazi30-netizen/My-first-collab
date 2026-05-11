@@ -1,3 +1,3 @@
-# My-first-collab
-This will be talking about what github is and why it is important.
-
+# What is Github 
+This will be talking about what GitHub is and why it is important.
+And it will be more fun and understandable for everyone.
